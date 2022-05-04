@@ -1,3 +1,5 @@
+This is an automatic translation, may be incorrect in some places. See sources and examples!
+
 # GyverTimer
 Full timer based on system millis() / micros()
 **WARNING, THE LIBRARY IS OUT OF DATE! USE [TimerMs](https://github.com/GyverLibs/TimerMs)**
